@@ -16,7 +16,9 @@ Provides error handling for various exceptions that may occur during the process
 
 **Requirements**
 
-1. Python 3.7 or higher
+[Simple Chrome plugin to handle captcha] https://chrome.google.com/webstore/detail/nopecha-captcha-solver/dknlfmjaanfblgfdfebhijalfmhmjjjo
+
+- Python 3.7 or higher
 - Selenium
 - undetected_chromedriver
 
