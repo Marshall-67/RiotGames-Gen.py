@@ -1,4 +1,4 @@
-#Project Title#
+####[Bunk] Riot Games Account Generator w/ Captcha Support ###
 A script that automates the process of creating a League of Legends account through the official website.
 
 **Reason**
