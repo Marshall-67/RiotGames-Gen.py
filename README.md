@@ -16,7 +16,7 @@ Provides error handling for various exceptions that may occur during the process
 
 **Requirements**
 
-[Named link](https://chrome.google.com/webstore/detail/nopecha-captcha-solver/dknlfmjaanfblgfdfebhijalfmhmjjjo "Captcha Extension")
+[Captcha Solving Plugin](https://chrome.google.com/webstore/detail/nopecha-captcha-solver/dknlfmjaanfblgfdfebhijalfmhmjjjo )
 
 - Python 3.7 or higher
 - Selenium
