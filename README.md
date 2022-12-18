@@ -12,6 +12,8 @@ A script that automates the process of creating a League of Legends account thro
 1. Captcha solving Via NOPECHA plugin
 2. Email support using xitroo.com
 3. Saves account information to accounts.txt
+
+
 **Requirements**
 
 - [Captcha Solving Plugin](https://chrome.google.com/webstore/detail/nopecha-captcha-solver/dknlfmjaanfblgfdfebhijalfmhmjjjo )
