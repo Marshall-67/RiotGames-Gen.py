@@ -5,7 +5,7 @@ A script that automates the process of creating a League of Legends account thro
 
 **Reason**
 
-*This script was created to automate the process of creating Riot Games /  League of Legends accounts, which can be a tedious task when done manually.*
+*Testing out selenium/python, This project took a couple of hours to complete and i don't really plan on maintining it as it should be pretty straight forward to do yourself*
 
 **Features**
 
