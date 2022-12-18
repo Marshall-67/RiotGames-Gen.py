@@ -9,11 +9,9 @@ A script that automates the process of creating a League of Legends account thro
 
 **Features**
 
-Automates the process of filling out the sign up form and submitting it on the official website
-Generates random information for the account, including email, password, username, and date of birth
-Uses undetected_chromedriver and anycaptcha to bypass CAPTCHA challenges
-Provides error handling for various exceptions that may occur during the process
-
+1. Captcha solving Via NOPECHA plugin
+2. Email support using xitroo.com
+3. Saves account information to accounts.txt
 **Requirements**
 
 - [Captcha Solving Plugin](https://chrome.google.com/webstore/detail/nopecha-captcha-solver/dknlfmjaanfblgfdfebhijalfmhmjjjo )
