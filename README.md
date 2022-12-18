@@ -16,7 +16,7 @@ Provides error handling for various exceptions that may occur during the process
 
 **Requirements**
 
-[Simple Chrome plugin to handle captcha] https://chrome.google.com/webstore/detail/nopecha-captcha-solver/dknlfmjaanfblgfdfebhijalfmhmjjjo
+[Named link](https://chrome.google.com/webstore/detail/nopecha-captcha-solver/dknlfmjaanfblgfdfebhijalfmhmjjjo "Captcha Extension")
 
 - Python 3.7 or higher
 - Selenium
