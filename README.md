@@ -1,4 +1,4 @@
-Project Title
+**Project Title**
 A script that automates the process of creating a League of Legends account through the official website.
 
 Motivation
