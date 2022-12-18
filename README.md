@@ -27,6 +27,8 @@ A script that automates the process of creating a League of Legends account thro
 - Clone or download the repository to your local machine
 - Install the required packages by running pip install -r requirements.txt
 
+- You must aqquire the nopecha.crx file from the nopecha extension. this is pretty simple to do with a google search, however i will not be including the file in this code
+
 **Usage**
 
 - Edit the options in the script to customize the Chrome options, such as window size and extensions
