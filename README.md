@@ -1,7 +1,7 @@
 ### [Bunk] Riot Games Account Generator w/ Captcha Support ###
 
 
-A script that automates the process of creating a League of Legends account through the official website.
+A script that automates the process of creating a riot games account 
 
 **Reason**
 
@@ -14,11 +14,6 @@ A script that automates the process of creating a League of Legends account thro
 3. Saves account information to accounts.txt
 
 
-```
-test
-```
-
-
 **Requirements**
 
 - [Captcha Solving Plugin](https://chrome.google.com/webstore/detail/nopecha-captcha-solver/dknlfmjaanfblgfdfebhijalfmhmjjjo )
@@ -28,9 +23,10 @@ test
 - undetected_chromedriver
 
 **Installation**
-
-- Clone or download the repository to your local machine
-- Install the required packages by running pip install -r requirements.txt
+ Install the required packages by running
+```
+pip install -r requirements.txt
+```
 
 - You must aqquire the nopecha.crx file from the nopecha extension. this is pretty simple to do with a google search, however i will not be including the file in this code
 
