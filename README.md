@@ -14,6 +14,11 @@ A script that automates the process of creating a League of Legends account thro
 3. Saves account information to accounts.txt
 
 
+```
+test
+```
+
+
 **Requirements**
 
 - [Captcha Solving Plugin](https://chrome.google.com/webstore/detail/nopecha-captcha-solver/dknlfmjaanfblgfdfebhijalfmhmjjjo )
