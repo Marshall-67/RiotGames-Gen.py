@@ -23,7 +23,8 @@ A script that automates the process of creating a riot games account
 - undetected_chromedriver
 
 **Installation**
- Install the required packages by running
+
+Install the required packages by running: 
 ```
 pip install -r requirements.txt
 ```
