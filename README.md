@@ -38,9 +38,6 @@ pip install -r requirements.txt
 - The script will open a Chrome window and navigate to the sign up page. It will then generate random account information and fill out the form. If a CAPTCHA challenge is encountered, it will be automatically solved using anycaptcha.
 Once the form is submitted, the script will print a message indicating that the account creation was successful.
 
-**Contributing**
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
 
 **Todo**
 - Preferably implement [Local AI Captcha Solving Solution](https://github.com/QIN2DIM/hcaptcha-challenger)
@@ -49,6 +46,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 - Add "humanization mode" to slow down the process and not raise any flags
 
 - Finally add colors to the console output :relaxed:
+
 
 *License*
 This project is licensed under the MIT License - see the LICENSE file for details.
